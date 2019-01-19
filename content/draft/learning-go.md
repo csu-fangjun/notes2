@@ -1,6 +1,7 @@
 ---
 title: "Learn Go Programming"
 date: 2018-10-16T17:16:33+08:00
+draft: true
 tags: [
     "go",
     "golang",
@@ -9,7 +10,6 @@ categories: [
     "Development",
     "golang",
 ]
-draft: false
 ---
 
 ## TODO

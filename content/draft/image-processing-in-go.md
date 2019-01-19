@@ -1,7 +1,7 @@
 ---
 title: "Image Processing in Go"
 date: 2018-10-29T20:06:40+08:00
-draft: false
+draft: true
 tags: [
     "go",
     "golang",

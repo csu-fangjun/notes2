@@ -1,7 +1,7 @@
 ---
 title: "Errors in Go"
 date: 2018-10-28T15:12:34+08:00
-draft: false
+draft: true
 tags: [
     "go",
     "golang",

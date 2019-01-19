@@ -9,7 +9,7 @@ enableEmoji = true
 theme = "jane"
 
 hasCJKLanguage = true     # has chinese/japanese/korean ?
-paginate = 5              # Number of articles displayed on the homepage
+paginate = 3              # Number of articles displayed on the homepage
 rssLimit = 20             # Limit Entry Count to Rss file
 disqusShortname = "csu-fangjun"      # disqus_shortname
 googleAnalytics = "UA-127562009-1"      # UA-XXXXXXXX-X

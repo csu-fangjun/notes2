@@ -1,6 +1,7 @@
 ---
 title: "Libraries for Go"
 date: 2018-10-17T22:10:40+08:00
+draft: true
 tags: [
     "go",
     "golang",
@@ -9,7 +10,6 @@ categories: [
     "Development",
     "golang",
 ]
-draft: false
 ---
 
 This post lists some go libraries are useful for me.

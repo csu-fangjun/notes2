@@ -1,7 +1,7 @@
 ---
 title: "Caffe Notes"
 date: 2018-11-02T11:04:50+08:00
-draft: false
+draft: true
 tags: [
     "caffe"
 ]

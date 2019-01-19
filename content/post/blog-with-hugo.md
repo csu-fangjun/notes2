@@ -14,6 +14,14 @@ tags: [
  - [如何在github.io搭建Hugo博客站][1]
  - [如何给自己的博客网站加入评论系统][2], [gitment][3]
 
+Steps:
+
+1. `hugo new post/some-notes.md`, it creates `content/post/some-notes.md`
+2. Edit `some-notes.md`
+3. Run `hugo` to generate webpages
+4. Run `hugo server` to view the results
+5. Commit.
+
 
 [5]: https://themes.gohugo.io/theme/hugo-theme-jane/post/jane-theme-preview/
 [4]: https://github.com/keysaim/blogs/blob/master/config.toml

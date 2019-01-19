@@ -1,13 +1,13 @@
 ---
 title: "Data Structures and Algorithms"
 date: 2018-10-21T08:27:20+08:00
+draft: true
 tags: [
     "data_structures_and_algorithms",
 ]
 categories: [
     "Development",
 ]
-draft: false
 ---
 
 
